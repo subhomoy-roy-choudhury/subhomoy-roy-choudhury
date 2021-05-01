@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal projects in Deep Learning and AI . 
-- 🌱 I’m currently learning Fultter for Cross Platform App Development and React for Web development and also how to write hacking scripts .
+- 🌱 I’m currently learning Flutter for Cross Platform App Development and React for Web development and also how to write hacking scripts .
 - 👯 I’m looking to collaborate on AI and Deep Learning Projects.
 - 📫 How to reach me: [subhomoyrchoudhury@gmail.com]
 
