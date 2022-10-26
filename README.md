@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a local software development kit consisting of mongoDB, Solr etc . 
 - 🌱 I’m currently learning Golang .
 - 👯 I’m looking to collaborate on open source alternatives.
