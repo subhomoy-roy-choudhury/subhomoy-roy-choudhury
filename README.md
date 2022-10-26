@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal projects in Deep Learning and AI . 
-- 🌱 I’m currently learning Flutter for Cross Platform App Development and React for Web development and also how to write hacking scripts .
-- 👯 I’m looking to collaborate on AI and Deep Learning Projects.
+- 🔭 I’m currently working on a local software development kit consisting of mongoDB, Solr etc . 
+- 🌱 I’m currently learning Golang .
+- 👯 I’m looking to collaborate on open source alternatives.
 - 📫 How to reach me: [subhomoyrchoudhury@gmail.com]
 
 **GitHub Stats**
