@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on open source alternatives.
 - 📫 How to reach me: [subhomoyrchoudhury@gmail.com]
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 **GitHub Stats**
 ** **
 ![github metrics](https://github-readme-stats.vercel.app/api?username=subhomoy-roy-choudhury&&theme=merko&&show_icons=true)
