@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on open source alternatives.
 - 📫 How to reach me: [subhomoyrchoudhury@gmail.com]
 
-<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/> -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-### 🔗 Social info
+### Credly Badges
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
@@ -25,6 +25,13 @@
 
 ---
 
+<!-- Devcard Data (Brave) -->
+<details>
+<summary>DevCard</summary>
+<p align="center">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/main/devcard.svg" width="400" alt="Subhomoy Roy Choudhury's Dev Card"/></a>
+</p>
+</details>
 
 <!-- Tech Stack -->
 # 🥇 Technical Skills:
