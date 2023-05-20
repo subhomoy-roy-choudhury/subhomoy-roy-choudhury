@@ -1,39 +1,35 @@
 <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=subhomoy-roy-choudhury&linkedin=subhomoy-roy-choudhury-70aab81a7&twitter=tribrid2000" href="https://linktr.ee/arpanaditya"/>
 
+ <img src="https://komarev.com/ghpvc/?username=subhomoy-roy-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://img.shields.io/github/followers/subhomoy-roy-choudhury?label=Followers&style=social" alt="followers-count"> 
+</p>
+
 ### Hi there 👋
 
-- 🔭 I’m currently working on a local software development kit consisting of mongoDB, Solr etc .
-- 🌱 I’m currently learning Golang .
-- 👯 I’m looking to collaborate on open source alternatives.
-- 📫 How to reach me: [subhomoyrchoudhury@gmail.com]
+- I am a tech-enthusiast, competent, well-focused full-stack developer👨‍💻. I am passionate about building fully functional web-applications.
+- I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS, Python. I am good in data structure and algorithms.
+- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-### Credly Badges
+ <h2 align="left">⚡Connect with Me:</h2>
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <a href="https://www.linkedin.com/in/subhomoy-roy-choudhury-70aab81a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="subhomoyrchoudhury@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
+    <a href="https://src-portfolio.oderna.in/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
 </div>
 
 ---
 
-<!-- Devcard Data (Brave) -->
-<details>
-<summary>DevCard</summary>
-<p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/main/devcard.svg" width="400" alt="Subhomoy Roy Choudhury's Dev Card"/></a>
-</p>
-</details>
-
 <!-- Tech Stack -->
+
 # 🥇 Technical Skills:
 
  <div align="center"><h3 align="center">Frontend</h3>
@@ -81,9 +77,10 @@
    <br/>
   </div>
 
-
 <!-- Devcard Data (Brave) -->
+
 ## DevCard
+
 <details>
 <summary>DevCard</summary>
 <p align="center">
@@ -92,8 +89,6 @@
 </details>
 
 ## Credly Badges
-<details>
-<summary>Badges</summary>
   <!--START_SECTION:badges-->
 
 [![Chatbot Building Essentials](https://images.credly.com/size/110x110/images/2a334906-fff1-4047-bcd9-be94347d0dca/Chatbot_Building_Essentials_Foundational.png)](http://www.credly.com/badges/d59d7c56-b059-4c87-9eb8-82e861010b8c "Chatbot Building Essentials")
@@ -113,9 +108,16 @@
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/db08f237-c346-4733-bd9e-66e44d9535d0 "Python for Data Science")
 
 <!--END_SECTION:badges-->
-</details>
 
-## 📊 Statistics  
+## 📊 Statistics
+
+<div style="display: flex; flex-direction: row; gap: 5px">
+ <a href="https://github.com/subhomoy-roy-choudhury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhomoy-roy-choudhury&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> 
+ <a href="https://github.com/subhomoy-roy-choudhury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhomoy-roy-choudhury&layout=compact&theme=react&hide_border=true" /></a>
+</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhomoy-roy-choudhury&theme=2077" width="46%" />
   <br/>
@@ -140,32 +142,13 @@
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhomoy-roy-choudhury&theme=react-dark&hide_border=true" /></a>    
   
   <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
+<img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>
 
- <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
+<!-- Github Language Matrix -->
+<!-- ![github metrics](https://metrics.lecoq.io/subhomoy-roy-choudhury)
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhomoy-roy-choudhury&count_private=true&theme=radical" alt="subhomoy-roy-choudhury" /> -->
 
-<!-- **GitHub Stats**
-
----
-
-![github metrics](https://github-readme-stats.vercel.app/api?username=subhomoy-roy-choudhury&&theme=merko&&show_icons=true)
-
-> The above stats may or may not be accurate...
-
-**Github Metrics**
-
----
-
-![github metrics](https://metrics.lecoq.io/subhomoy-roy-choudhury)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhomoy-roy-choudhury&count_private=true&theme=radical" alt="itisdb" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhomoy-roy-choudhury&count_private=true&theme=radical" alt="subhomoy-roy-choudhury" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />
-
-<p align="center"> <img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/output/github-contribution-grid-snake.svg" width="700" /> </p> -->
-
-### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+ <h2 align="left">⚡Visitors Count:</h2>
+<a href="https://u8views.com/github/subhomoy-roy-choudhury"><img src="https://u8views.com/api/v1/github/profiles/64763636/views/day-week-month-total-count.svg"></a>
