@@ -150,8 +150,8 @@
 
 ### 📈 Weekly Developement Breakdown
 
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  <h2 align="left">⚡Visitors Count:</h2>
 <a href="https://u8views.com/github/subhomoy-roy-choudhury"><img src="https://u8views.com/api/v1/github/profiles/64763636/views/day-week-month-total-count.svg"></a>
