@@ -12,7 +12,6 @@
 ### Credly Badges
 
   <!--START_SECTION:badges-->
-
 [![Chatbot Building Essentials](https://images.credly.com/size/110x110/images/2a334906-fff1-4047-bcd9-be94347d0dca/Chatbot_Building_Essentials_Foundational.png)](http://www.credly.com/badges/d59d7c56-b059-4c87-9eb8-82e861010b8c "Chatbot Building Essentials")
 [![IBM AI Engineering Professional Certificate](https://images.credly.com/size/110x110/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png)](http://www.credly.com/badges/59b0776e-b2fe-43bc-978d-91303e910cdb "IBM AI Engineering Professional Certificate")
 [![Deep Learning with Tensorflow](https://images.credly.com/size/110x110/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png)](http://www.credly.com/badges/d613cfc4-4d98-4564-ba3e-4e639668790d "Deep Learning with Tensorflow")
@@ -28,7 +27,6 @@
 [![Data Visualization Using Python](https://images.credly.com/size/110x110/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](http://www.credly.com/badges/6183af9d-2934-4217-8e0d-a08b01f82787 "Data Visualization Using Python")
 [![Data Analysis Using Python](https://images.credly.com/size/110x110/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)](http://www.credly.com/badges/2d184c47-87ab-4aed-924e-dfb1b026b121 "Data Analysis Using Python")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/db08f237-c346-4733-bd9e-66e44d9535d0 "Python for Data Science")
-
 <!--END_SECTION:badges-->
 
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
