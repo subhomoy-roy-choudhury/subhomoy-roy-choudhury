@@ -148,5 +148,24 @@
 <!-- ![github metrics](https://metrics.lecoq.io/subhomoy-roy-choudhury)
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhomoy-roy-choudhury&count_private=true&theme=radical" alt="subhomoy-roy-choudhury" /> -->
 
+### 📈 Weekly Developement Breakdown
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 24 January 2023 - To: 18 May 2023
+
+Total Time: 139 hrs 27 mins
+
+TypeScript   96 hrs 31 mins  █████████████████▒░░░░░░░   69.21 %
+JavaScript   23 hrs 28 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+JSON         3 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+XML          3 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+CSS          2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+C++          2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+```
+
+<!--END_SECTION:waka-simple-->
+
  <h2 align="left">⚡Visitors Count:</h2>
 <a href="https://u8views.com/github/subhomoy-roy-choudhury"><img src="https://u8views.com/api/v1/github/profiles/64763636/views/day-week-month-total-count.svg"></a>
