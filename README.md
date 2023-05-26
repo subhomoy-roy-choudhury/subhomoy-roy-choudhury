@@ -107,6 +107,9 @@
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/db08f237-c346-4733-bd9e-66e44d9535d0 "Python for Data Science")
 <!--END_SECTION:badges-->
 
+## Holopin Badges 
+[![An image of @subhomoyroychoudhury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhomoyroychoudhury)](https://holopin.io/@subhomoyroychoudhury)
+
 ## 📊 Statistics
 
 <div style="display: flex; flex-direction: row; gap: 5px">
