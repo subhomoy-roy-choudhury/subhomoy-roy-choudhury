@@ -110,6 +110,19 @@
 ## Holopin Badges 
 [![An image of @subhomoyroychoudhury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhomoyroychoudhury)](https://holopin.io/@subhomoyroychoudhury)
 
+
+## Online Competition Stats:
+<!-- 
+Kaggle Widget Reference Links :-
+https://github.com/subinium/kaggle-badge
+https://github.com/chienhsiang-hung/kaggle-profile-summary-card
+https://github.com/kaydee0502/kaggle-profile-card 
+-->
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?subhomoyroychoudhury)
+
+<!-- LeetCode Stat Widget -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/subhomoy2000)](https://leetcode.com/subhomoy2000)
+
 ## 📊 Statistics
 
 <div style="display: flex; flex-direction: row; gap: 5px">
@@ -173,15 +186,3 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
  <h2 align="left">⚡Visitors Count:</h2>
 <a href="https://u8views.com/github/subhomoy-roy-choudhury"><img src="https://u8views.com/api/v1/github/profiles/64763636/views/day-week-month-total-count.svg"></a>
-
-
-<!-- 
-Kaggle Widget Reference Links :-
-https://github.com/subinium/kaggle-badge
-https://github.com/chienhsiang-hung/kaggle-profile-summary-card
-https://github.com/kaydee0502/kaggle-profile-card 
--->
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?subhomoyroychoudhury)
-
-<!-- LeetCode Stat Widget -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/subhomoy2000)](https://leetcode.com/subhomoy2000)
