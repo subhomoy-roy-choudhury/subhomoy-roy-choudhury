@@ -183,3 +183,5 @@ https://github.com/kaydee0502/kaggle-profile-card
 -->
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?subhomoyroychoudhury)
 
+<!-- LeetCode Stat Widget -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/subhomoy2000)](https://leetcode.com/subhomoy2000)
