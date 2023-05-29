@@ -173,3 +173,13 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
  <h2 align="left">⚡Visitors Count:</h2>
 <a href="https://u8views.com/github/subhomoy-roy-choudhury"><img src="https://u8views.com/api/v1/github/profiles/64763636/views/day-week-month-total-count.svg"></a>
+
+
+<!-- 
+Kaggle Widget Reference Links :-
+https://github.com/subinium/kaggle-badge
+https://github.com/chienhsiang-hung/kaggle-profile-summary-card
+https://github.com/kaydee0502/kaggle-profile-card 
+-->
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?subhomoyroychoudhury)
+
