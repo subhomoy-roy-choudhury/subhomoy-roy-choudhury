@@ -95,7 +95,7 @@
 [![Deep Learning with Tensorflow](https://images.credly.com/size/110x110/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png)](http://www.credly.com/badges/d613cfc4-4d98-4564-ba3e-4e639668790d "Deep Learning with Tensorflow")
 [![Deep Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png)](http://www.credly.com/badges/65341f36-e254-4ed8-86e9-17d095c24a89 "Deep Neural Networks with PyTorch")
 [![Deep Learning Essentials with Keras](https://images.credly.com/size/110x110/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png)](http://www.credly.com/badges/5ccf3673-8189-43e7-8b87-041353ad50c3 "Deep Learning Essentials with Keras")
-[![Machine Learning with Apache Spark](https://images.credly.com/size/110x110/images/e6440901-1f1b-4c22-83f6-ab7316972c42/IBM_AI_-_Machine_Learning_with_Apache_Spark.png)](http://www.credly.com/badges/d81dad2e-1cf5-41b0-9626-1e0c82a44489 "Machine Learning with Apache Spark")
+[![Scalable Machine Learning with Apache Spark](https://images.credly.com/size/110x110/images/e6440901-1f1b-4c22-83f6-ab7316972c42/IBM_AI_-_Machine_Learning_with_Apache_Spark.png)](http://www.credly.com/badges/d81dad2e-1cf5-41b0-9626-1e0c82a44489 "Scalable Machine Learning with Apache Spark")
 [![MTA: Introduction to Programming Using Python - Certified 2020](https://images.credly.com/size/110x110/images/0f467dff-9212-4684-9f74-44da8879e625/MTA-Introduction_to_Programming_Using_Python.png)](http://www.credly.com/badges/9e29cab9-d949-421d-9c9f-408ec24d42f6 "MTA: Introduction to Programming Using Python - Certified 2020")
 [![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png)](http://www.credly.com/badges/5c2299b3-1f85-4894-b011-bcbe6e78c9c3 "Accelerated Deep Learning with GPU")
 [![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/4364bbe5-6551-47b5-8d73-8f73dc1ecc8f "Machine Learning with Python")
@@ -156,9 +156,9 @@ https://github.com/kaydee0502/kaggle-profile-card
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhomoy-roy-choudhury&theme=react-dark&hide_border=true" /></a>    
   
   <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div> -->
 
-<img align="center" src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+<!-- <img align="center" src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/> -->
 
 <!-- Github Language Matrix -->
 <!-- ![github metrics](https://metrics.lecoq.io/subhomoy-roy-choudhury)
@@ -168,18 +168,21 @@ https://github.com/kaydee0502/kaggle-profile-card
 
 <!--START_SECTION:waka-->
 
-```text
-From: 20 May 2023 - To: 27 May 2023
+```txt
+From: 20 May 2023 - To: 01 November 2023
 
-Total Time: 14 hrs 40 mins
+Total Time: 379 hrs 46 mins
 
-JavaScript   13 hrs 41 mins  ███████████████████████▒░   93.28 %
-JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript                 340 hrs 29 mins ██████████████████████▒░░   89.65 %
+JSON                       11 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Python                     7 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+YAML                       6 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Bash                       6 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Lua                        2 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Docker                     2 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript                 1 hr 23 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other                      55 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+CSS                        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
