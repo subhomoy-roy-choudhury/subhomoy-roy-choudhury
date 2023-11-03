@@ -152,8 +152,8 @@ https://github.com/kaydee0502/kaggle-profile-card
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhomoy-roy-choudhury&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhomoy-roy-choudhury&theme=react-dark&hide_border=true" /></a>    
+ <!-- <h2 align="left">⚡Activity Graph:</h2> -->
+  <!-- <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhomoy-roy-choudhury&theme=react-dark&hide_border=true" /></a>     -->
   
   <div align="center">    
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div> -->
