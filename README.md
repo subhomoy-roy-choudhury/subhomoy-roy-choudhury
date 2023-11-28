@@ -156,20 +156,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2023 - To: 25 November 2023
+From: 20 May 2023 - To: 26 November 2023
 
-Total Time: 426 hrs 47 mins
+Total Time: 429 hrs 39 mins
 
-JavaScript                 382 hrs 26 mins ██████████████████████▒░░   89.61 %
-JSON                       14 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Python                     7 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-YAML                       7 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Bash                       6 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JavaScript                 383 hrs 26 mins ██████████████████████▒░░   89.24 %
+JSON                       15 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+YAML                       7 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python                     7 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Bash                       6 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 Docker                     2 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Lua                        2 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Lua                        2 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 TypeScript                 1 hr 25 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown                   1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Other                      55 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Markdown                   43 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
