@@ -81,12 +81,12 @@
 
 ## DevCard
 
-<details>
+<!-- <details> -->
 <summary>DevCard</summary>
 <p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/main/devcard.svg" width="400" alt="Subhomoy Roy Choudhury's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/main/devcard.png" width="400" alt="Subhomoy Roy Choudhury's Dev Card"/></a>
 </p>
-</details>
+<!-- </details> -->
 
 ## Credly Badges
   <!--START_SECTION:badges-->
