@@ -90,7 +90,7 @@
 
 ## Credly Badges
   <!--START_SECTION:badges-->
-[![Chatbot Building Essentials](https://images.credly.com/size/110x110/images/2a334906-fff1-4047-bcd9-be94347d0dca/Chatbot_Building_Essentials_Foundational.png)](http://www.credly.com/badges/d59d7c56-b059-4c87-9eb8-82e861010b8c "Chatbot Building Essentials")
+[![Chatbot Building Essentials](https://images.credly.com/size/110x110/images/6a583c30-8234-43ae-8b75-8f7b41933d6e/image.png)](http://www.credly.com/badges/d59d7c56-b059-4c87-9eb8-82e861010b8c "Chatbot Building Essentials")
 [![IBM AI Engineering Professional Certificate](https://images.credly.com/size/110x110/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png)](http://www.credly.com/badges/59b0776e-b2fe-43bc-978d-91303e910cdb "IBM AI Engineering Professional Certificate")
 [![Deep Learning with Tensorflow](https://images.credly.com/size/110x110/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png)](http://www.credly.com/badges/d613cfc4-4d98-4564-ba3e-4e639668790d "Deep Learning with Tensorflow")
 [![Deep Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png)](http://www.credly.com/badges/65341f36-e254-4ed8-86e9-17d095c24a89 "Deep Neural Networks with PyTorch")
