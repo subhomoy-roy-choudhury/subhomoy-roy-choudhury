@@ -1,4 +1,7 @@
-<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=subhomoy-roy-choudhury&linkedin=subhomoy-roy-choudhury-70aab81a7&twitter=tribrid2000" href="https://linktr.ee/arpanaditya"/>
+<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=subhomoy-roy-choudhury&linkedin=subhomoy-roy-choudhury-70aab81a7&twitter=tribrid2000" href="https://linktr.ee/subhomoyroychoudhury"/> -->
+
+<!-- https://leviarista.github.io/github-profile-header-generator/ -->
+<p align="center"><img src="https://raw.githubusercontent.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/main/github-header-image.png" href="https://linktr.ee/subhomoyroychoudhury"/>
 
  <img src="https://komarev.com/ghpvc/?username=subhomoy-roy-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/subhomoy-roy-choudhury?label=Followers&style=social" alt="followers-count"> 
