@@ -145,7 +145,10 @@
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>
 
-<img align="center" src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+![snake animation](https://raw.githubusercontent.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/output/github-snake.svg)
+
+
+<!-- <img align="center" src="https://raw.githubusercontent.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/output/ocean.gif" alt="snake" width="100%"/> -->
 
 <!-- Github Language Matrix -->
 <!-- ![github metrics](https://metrics.lecoq.io/subhomoy-roy-choudhury)
