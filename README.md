@@ -6,9 +6,18 @@
 
 ### Hi there 👋
 
-- I am a tech-enthusiast, competent, well-focused full-stack developer👨‍💻. I am passionate about building fully functional web-applications.
-- I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS, Python. I am good in data structure and algorithms.
-- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- I am a passionate backend engineer with 3 years of experience in Python (Django, FastAPI, etc.) and Node.js. I specialize in building scalable and efficient web applications, and I am always excited to explore new technologies 🚀.
+
+- My interests lie in large language models (LLMs) and multi-agent AI systems 🤖. I'm currently venturing into creating an AI workforce automation startup, aiming to revolutionize the way we work with intelligent systems.
+
+- I enjoy contributing to open-source projects and believe in the power of community and collaboration 🌐. Sharing knowledge and learning from others is what drives me.
+
+#### Current Projects 
+- [HackIP](https://hackip.oderna.in/)
+- [Milap](https://milap.oderna.in/#/)
+- [Hacker Lab](https://github.com/Hacker-Lab-Pro/hackerlab-scripts)
+
+I'm always open to collaborations! If you're interested in any of these projects or have ideas for new ventures, let's connect. Feel free to [book a call with me](https://cal.com/subhomoy-roy-choudhury) 📞 or reach out via email 📧. Let's innovate together!
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
@@ -23,6 +32,9 @@
     </a>
     <a href="https://src-portfolio.oderna.in/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://cal.com/subhomoy-roy-choudhury">
+    <img src="https://img.shields.io/badge/Book%20a%20Call-Cal.com-blue?style=for-the-badge&logoColor=white" alt="Cal.com Badge"/>
     </a>
 </div>
 
