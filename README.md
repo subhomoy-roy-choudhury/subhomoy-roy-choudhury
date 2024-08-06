@@ -174,7 +174,7 @@ I'm always open to collaborations! If you're interested in any of these projects
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2023 - To: 03 August 2024
+From: 20 May 2023 - To: 04 August 2024
 
 Total Time: 933 hrs 41 mins
 
