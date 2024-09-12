@@ -174,18 +174,18 @@ I'm always open to collaborations! If you're interested in any of these projects
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2023 - To: 09 September 2024
+From: 20 May 2023 - To: 10 September 2024
 
-Total Time: 1,026 hrs 12 mins
+Total Time: 1,028 hrs 5 mins
 
-JavaScript                 906 hrs 24 mins ██████████████████████░░░   88.33 %
-JSON                       37 hrs 44 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-YAML                       18 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JavaScript                 907 hrs 51 mins ██████████████████████░░░   88.31 %
+JSON                       37 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+YAML                       18 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 Lua                        18 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Bash                       17 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Bash                       17 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 Python                     10 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 Docker                     7 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Other                      2 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other                      2 hrs 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 TypeScript                 2 hrs 48 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Markdown                   1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
