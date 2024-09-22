@@ -174,13 +174,13 @@ I'm always open to collaborations! If you're interested in any of these projects
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2023 - To: 19 September 2024
+From: 20 May 2023 - To: 20 September 2024
 
-Total Time: 1,042 hrs 48 mins
+Total Time: 1,044 hrs 17 mins
 
-JavaScript                 918 hrs 57 mins ██████████████████████░░░   88.12 %
-JSON                       39 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Lua                        19 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JavaScript                 920 hrs 25 mins ██████████████████████░░░   88.14 %
+JSON                       39 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Lua                        19 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 YAML                       19 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 Bash                       17 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 Python                     10 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
