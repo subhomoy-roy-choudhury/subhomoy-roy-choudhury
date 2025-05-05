@@ -16,9 +16,8 @@
 - I enjoy contributing to open-source projects and believe in the power of community and collaboration 🌐. Sharing knowledge and learning from others is what drives me.
 
 #### Current Projects 
-- [HackIP](https://hackip.oderna.in/)
+- [ILoveGithub](https://ilovegithub.oderna.in/))
 - [Milap](https://milap.oderna.in/#/)
-- [Hacker Lab](https://github.com/Hacker-Lab-Pro/hackerlab-scripts)
 
 I'm always open to collaborations! If you're interested in any of these projects or have ideas for new ventures, let's connect. Feel free to [book a call with me](https://cal.com/subhomoy-roy-choudhury) 📞 or reach out via email 📧. Let's innovate together!
 
