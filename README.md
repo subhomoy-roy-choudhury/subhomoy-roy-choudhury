@@ -1,10 +1,10 @@
-<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=subhomoy-roy-choudhury&linkedin=subhomoy-roy-choudhury-70aab81a7&twitter=tribrid2000" href="https://linktr.ee/subhomoyroychoudhury"/> -->
+<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=crackedngineer&linkedin=subhomoy-roy-choudhury&twitter=tribrid2000" href="https://linktr.ee/subhomoyroychoudhury"/> -->
 
 <!-- https://leviarista.github.io/github-profile-header-generator/ -->
-<p align="center"><img src="https://raw.githubusercontent.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/main/github-header-image.png" href="https://linktr.ee/subhomoyroychoudhury"/>
+<p align="center"><img src="https://raw.githubusercontent.com/crackedngineer/crackedngineer/main/github-header-image.png" href="https://linktr.ee/subhomoyroychoudhury"/>
 
- <img src="https://komarev.com/ghpvc/?username=subhomoy-roy-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/subhomoy-roy-choudhury?label=Followers&style=social" alt="followers-count"> 
+ <img src="https://komarev.com/ghpvc/?username=crackedngineer&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://img.shields.io/github/followers/crackedngineer?label=Followers&style=social" alt="followers-count"> 
 </p>
 
 ### Hi there 👋
@@ -98,7 +98,7 @@ I'm always open to collaborations! If you're interested in any of these projects
 <!-- <details> -->
 <summary>DevCard</summary>
 <p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/blob/main/devcard.png" width="400" alt="Subhomoy Roy Choudhury's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crackedngineer/crackedngineer/blob/main/devcard.png" width="400" alt="Subhomoy Roy Choudhury's Dev Card"/></a>
 </p>
 <!-- </details> -->
 
@@ -127,46 +127,46 @@ I'm always open to collaborations! If you're interested in any of these projects
 ## 📊 Statistics
 
 <div style="display: flex; flex-direction: row; gap: 5px">
- <a href="https://github.com/subhomoy-roy-choudhury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhomoy-roy-choudhury&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> 
- <a href="https://github.com/subhomoy-roy-choudhury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhomoy-roy-choudhury&layout=compact&theme=react&hide_border=true" /></a>
+ <a href="https://github.com/crackedngineer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=crackedngineer&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> 
+ <a href="https://github.com/crackedngineer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackedngineer&layout=compact&theme=react&hide_border=true" /></a>
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhomoy-roy-choudhury&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crackedngineer&theme=2077" width="46%" />
   <br/>
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=subhomoy-roy-choudhury&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+<img align="right" src="https://streak-stats.demolab.com/?user=crackedngineer&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhomoy-roy-choudhury&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhomoy-roy-choudhury&theme=2077" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crackedngineer&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crackedngineer&theme=2077" width="45%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhomoy-roy-choudhury&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crackedngineer&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
  <!-- <h2 align="left">⚡Activity Graph:</h2> -->
-  <!-- <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhomoy-roy-choudhury&theme=react-dark&hide_border=true" /></a>     -->
+  <!-- <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=crackedngineer&theme=react-dark&hide_border=true" /></a>     -->
   
   <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=subhomoy-roy-choudhury&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>
+<img src="https://github-profile-trophy.vercel.app/?username=crackedngineer&column=-1&theme=gruvbox&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>
 
-![snake animation](https://raw.githubusercontent.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/output/github-snake.svg)
+![snake animation](https://raw.githubusercontent.com/crackedngineer/crackedngineer/output/github-snake.svg)
 
 
-<!-- <img align="center" src="https://raw.githubusercontent.com/subhomoy-roy-choudhury/subhomoy-roy-choudhury/output/ocean.gif" alt="snake" width="100%"/> -->
+<!-- <img align="center" src="https://raw.githubusercontent.com/crackedngineer/crackedngineer/output/ocean.gif" alt="snake" width="100%"/> -->
 
 <!-- Github Language Matrix -->
-<!-- ![github metrics](https://metrics.lecoq.io/subhomoy-roy-choudhury)
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhomoy-roy-choudhury&count_private=true&theme=radical" alt="subhomoy-roy-choudhury" /> -->
+<!-- ![github metrics](https://metrics.lecoq.io/crackedngineer)
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackedngineer&count_private=true&theme=radical" alt="crackedngineer" /> -->
 
 ### 📈 Weekly Developement Breakdown
 
