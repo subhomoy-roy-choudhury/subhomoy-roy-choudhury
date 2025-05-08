@@ -173,7 +173,7 @@ I'm always open to collaborations! If you're interested in any of these projects
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2023 - To: 05 May 2025
+From: 20 May 2023 - To: 06 May 2025
 
 Total Time: 1,044 hrs 17 mins
 
